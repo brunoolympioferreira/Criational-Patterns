@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBuilder", "FluentBuilder\FluentBuilder.csproj", "{F9DE2C7B-2FA8-4A7F-AE56-956A0A8B00AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPadrao", "BuilderPadrao\BuilderPadrao.csproj", "{6D4CAAA7-313A-4085-95AF-14ED27B19196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentInterface", "FluentInterface\FluentInterface.csproj", "{18C3AD79-5121-4858-9426-4919599336DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F9DE2C7B-2FA8-4A7F-AE56-956A0A8B00AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F9DE2C7B-2FA8-4A7F-AE56-956A0A8B00AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F9DE2C7B-2FA8-4A7F-AE56-956A0A8B00AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F9DE2C7B-2FA8-4A7F-AE56-956A0A8B00AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4CAAA7-313A-4085-95AF-14ED27B19196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4CAAA7-313A-4085-95AF-14ED27B19196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4CAAA7-313A-4085-95AF-14ED27B19196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4CAAA7-313A-4085-95AF-14ED27B19196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C3AD79-5121-4858-9426-4919599336DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C3AD79-5121-4858-9426-4919599336DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C3AD79-5121-4858-9426-4919599336DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C3AD79-5121-4858-9426-4919599336DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
